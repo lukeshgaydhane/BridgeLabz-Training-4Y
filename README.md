@@ -1,10 +1,10 @@
-# BridgeLabz-Training-2Y
-It's a training git file and it contains all files that GLA 2nd year students need to complete there assignments and it's complete structure ...
+# BridgeLabz-Training-4Y
+It's a training git file and it contains all files that GLA 4th year students need to complete there assignments and it's complete structure ...
 It contains java core concept--
 
 Please follow the below GitHub naming and structure guidelines:
 
-Repository Name: BridgeLabz-Training-2Y
+Repository Name: BridgeLabz-Training-4Y
 
 Branch Structure:
 
